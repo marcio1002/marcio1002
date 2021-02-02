@@ -1,7 +1,7 @@
 ##  Hello! Welcome to my profile 🇧🇷 
 <img src="https://github.com/marcio1002/marcio1002/blob/master/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
 
-My name is Marcio Alemão and I am a full stack programmer. I currently have knowledge in PHP, JavaScript, Python, Sql, Html,Css e powerShell. And I also have knowledge in the Laravel, Adonisjs and React frameworks. I really like to program and create something new or improve what is already done. That's it, let's be friends sharing knowledge, follow me here on github and other social networks for us to get in touch and have a nice chat 😉.
+My name is Marcio Alemão and I am a full stack programmer. I currently have knowledge in PHP, JavaScript, Python, Sql, Html, Css and powerShell. And I also have knowledge in the Laravel, Adonisjs and React frameworks. I really like to program and create something new or improve what is already done. That's it, let's be friends sharing knowledge, follow me here on github and other social networks for us to get in touch and have a chat 😉.
 ***
 🔹 Social networks
 
