@@ -13,7 +13,7 @@ My name is Marcio Alemão and I am a full stack programmer. I currently have kno
 
 🔹 Others
 
-![](https://img.shields.io/static/v1?style=flat&logo=html5&label=%20&message=HTML5&logoColor=FFFFFF&color=E34F26) ![](https://img.shields.io/static/v1?style=flat&logo=css3&label=%20&message=CSS3&logoColor=FFFFFF&color=1572B6)
+![](https://img.shields.io/static/v1?style=flat&logo=html5&label=%20&message=HTML5&logoColor=FFFFFF&color=E34F26) ![](https://img.shields.io/static/v1?style=flat&logo=css3&label=%20&message=CSS3&logoColor=FFFFFF&color=1572B6) ![](https://img.shields.io/static/v1?style=flat&logo=typescript&label=%20&message=TypeScript&logoColor=FFFFFF&color=3178C6)
 
 🔹 FrameWorks
 
