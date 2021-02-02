@@ -22,3 +22,6 @@ My name is Marcio Alemão and I am a full stack programmer. I currently have kno
 🔹 Operating Systems
 
 ![](https://img.shields.io/static/v1?style=flat&logo=ubuntu&label=%20&message=Ubuntu&logoColor=FFFFFF&color=E95420) ![](https://img.shields.io/static/v1?style=flat&logo=windows&label=%20&message=Windows10&logoColor=FFFFFF&color=0078D6)
+
+
+
