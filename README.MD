@@ -1,15 +1,17 @@
 ##  Hello! Welcome to my profile 🇧🇷 
 <img src="https://github.com/marcio1002/marcio1002/blob/master/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
 
-My name is Marcio Alemão and I am a full stack programmer. I currently have knowledge in PHP, JavaScript, Python, Sql, Html, Css and powerShell. And I also have knowledge in the Laravel, Adonisjs and React frameworks. I really like to program and create something new or improve what is already done. That's it, let's be friends sharing knowledge, follow me here on github and other social networks for us to get in touch and have a chat 😉.
+My name is Marcio Alemão and I am a full stack programmer. I currently have knowledge in PHP, JavaScript, Sql, Html, Css, powerShell e shell. And I also have knowledge in the Laravel, Adonisjs and React frameworks. I really like to program and create something new or improve what is already done. That's it, let's be friends sharing knowledge, follow me here on github and other social networks for us to get in touch and have a chat 😉.
+
 ***
+
 🔹 Social networks
 
 ![](https://img.shields.io/github/followers/marcio1002?label=Followers&style=social&link=https://github.com/marcio1002?tab=followers) ![](https://img.shields.io/static/v1?&style=social&label=Instagram&logo=instagram&message=Marcio9963&link=https://www.instagram.com/marcioalemao9963/right) ![](https://img.shields.io/static/v1?&style=social&label=LinkeDin&logo=linkedin&message=Marcio-Santos&link=https://www.linkedin.com/in/marcio-a-santos/right)
 
 🔹 Programming languages
 
-![](https://img.shields.io/static/v1?logo=php&label=%20&message=PHP&logoColor=white&color=6166AE) ![](https://img.shields.io/static/v1?style=flat&logo=javascript&label=%20&message=JavaScript&color=2B2B2B) ![](https://img.shields.io/static/v1?style=flat&logo=python&label=%20&message=Python&logoColor=F5F731&color=266FBF) ![](https://img.shields.io/static/v1?style=flat&logo=powershell&label=%20&message=PowerShell&logoColor=FFFFFF&color=5391FE)
+![](https://img.shields.io/static/v1?logo=php&label=%20&message=PHP&logoColor=white&color=6166AE) ![](https://img.shields.io/static/v1?style=flat&logo=javascript&label=%20&message=JavaScript&color=2B2B2B) ![](https://img.shields.io/static/v1?style=flat&logo=powershell&label=%20&message=PowerShell&logoColor=FFFFFF&color=5391FE) ![](https://img.shields.io/static/v1?style=flat&logo=shell&label=%20&message=Shell&logoColor=FFFFFF&color=5941FF)
 
 🔹 Others
 
@@ -23,5 +25,8 @@ My name is Marcio Alemão and I am a full stack programmer. I currently have kno
 
 ![](https://img.shields.io/static/v1?style=flat&logo=ubuntu&label=%20&message=Ubuntu&logoColor=FFFFFF&color=E95420) ![](https://img.shields.io/static/v1?style=flat&logo=windows&label=%20&message=Windows10&logoColor=FFFFFF&color=0078D6)
 
+***
 
+  <img src='https://github-readme-stats.vercel.app/api?username=marcio1002&count_private=true&show_icons=true&include_all_commits=true&custom_title=Marcio%20Alemão%20GitHub%20Stats&layout=compact&theme=tokyonight&title_color=FBFF40' width='45%' align='left' />
 
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=marcio1002&theme=tokyonight&title_color=FBFF40&layout=compact' width='37%' align='right' />
