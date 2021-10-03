@@ -19,7 +19,7 @@ My name is Marcio Alemão and I am a full stack programmer. I currently have kno
 
 🔹 FrameWorks
 
-![](https://img.shields.io/static/v1?style=flat&logo=laravel&label=%20&message=Laravel&logoColor=FFFFFF&color=FF2D20) ![](https://img.shields.io/static/v1?style=flat&logo=react&label=%20&message=React&logoColor=222222&color=61DAFB) ![](https://img.shields.io/static/v1?style=flat&logo=adonisjs&label=%20&message=AdonisJs&logoColor=FFFFFF&color=220052) ![](https://img.shields.io/static/v1?logo=jquery&logoColor=FFFFFF&label=%20%20&message=Jquery&color=0769AD)
+![](https://img.shields.io/static/v1?style=flat&logo=laravel&label=%20&message=Laravel&logoColor=FFFFFF&color=FF2D20) ![](https://img.shields.io/static/v1?style=flat&logo=react&label=%20&message=React&logoColor=222222&color=61DAFB) ![](https://img.shields.io/static/v1?style=flat&logo=adonisjs&label=%20&message=AdonisJs&logoColor=FFFFFF&color=220052) ![](https://img.shields.io/static/v1?logo=jquery&logoColor=FFFFFF&label=%20%20&message=Jquery&color=0769AD) ![](https://img.shields.io/static/v1?style=flat&logo=vue.js&label=%20&message=Vue.js&logoColor=222222&color=42b883)
 
 🔹 Operating Systems
 
