@@ -19,4 +19,4 @@
 
 🔹 Operating Systems
 
-![](https://img.shields.io/static/v1?style=flat&logo=ubuntu&label=%20&message=Ubuntu&logoColor=FFFFFF&color=E95420) ![](https://img.shields.io/static/v1?style=flat&logo=windows&label=%20&message=Windows11&logoColor=FFFFFF&color=0078D6)
+![](https://img.shields.io/static/v1?style=flat&logo=zorin&label=%20&message=Zorion&logoColor=0CC1F3&color=FFFFFF) ![](https://img.shields.io/static/v1?style=flat&logo=windows&label=%20&message=Windows11&logoColor=FFFFFF&color=0078D6)
