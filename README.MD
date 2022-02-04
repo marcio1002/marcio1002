@@ -3,7 +3,7 @@
 
 🔹 Social networks
 
-![](https://img.shields.io/github/followers/marcio1002?label=Followers&style=social&link=https://github.com/marcio1002?tab=followers) <a href='https://www.linkedin.com/in/marcio-a-santos/right' target='_blank'> ![](https://img.shields.io/static/v1?&style=social&label=LinkeDin&logo=linkedin&message=Marcio-Santos&link=https://www.linkedin.com/in/marcio-a-santos/right) </a>
+![](https://img.shields.io/github/followers/marcio1002?label=Followers&style=social&link=https://github.com/marcio1002?tab=followers) <a href='https://www.linkedin.com/in/marcio-a-santos' target='_blank'> ![](https://img.shields.io/static/v1?&style=social&label=LinkeDin&logo=linkedin&message=Marcio-Santos&link=https://www.linkedin.com/in/marcio-a-santos/) </a>
 
 🔹 Programming languages
 
