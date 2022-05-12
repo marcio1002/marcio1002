@@ -11,7 +11,7 @@
 
 🔹 Frameworks
 
-<a href='https://laravel.com/' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=laravel&label=%20&message=Laravel&logoColor=FFFFFF&color=FF2D20)</a> <a href='https://reactjs.org/docs/hello-world.html' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=react&label=%20&message=React&logoColor=222222&color=61DAFB)</a>  <a href='https://vuejs.org/guide/introduction.html' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=vue.js&label=%20&message=Vue.js&logoColor=222222&color=42b883)</a>
+<a href='https://laravel.com/' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=laravel&label=%20&message=Laravel&logoColor=FFFFFF&color=FF2D20)</a> <a href='https://reactjs.org/docs/hello-world.html' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=react&label=%20&message=React&logoColor=222222&color=61DAFB)</a>  <a href='https://vuejs.org/guide/introduction.html' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=vue.js&label=%20&message=Vue.js&logoColor=222222&color=42b883)</a> <a href='https://angular.io/docs'>![](https://img.shields.io/static/v1?style=flat&logo=angular&label=%20&message=Angular&logoColor=FFFFFF&color=c3002f)</a>
 
 🔹 Operating Systems
 
