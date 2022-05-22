@@ -1,5 +1,8 @@
 ##  Hello! Welcome to my profile 🇧🇷 
-<img src="https://github.com/marcio1002/marcio1002/blob/master/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
+
+<div align="right">
+<img src="https://github.com/marcio1002/marcio1002/blob/master/imgs/oie_source.gif?w=512" width=100 heigth=100/>
+</div>
 
 🔹 Social networks
 
