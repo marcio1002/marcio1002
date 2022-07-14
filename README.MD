@@ -18,4 +18,4 @@
 
 🔹 Operating Systems
 
-<a href='https://zorin.com/os/' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=zorin&label=%20&message=Zorion&logoColor=0CC1F3&color=FFFFFF)</a> <a href='https://www.microsoft.com/en-us/windows/windows-11' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=windows&label=%20&message=Windows11&logoColor=FFFFFF&color=0078D6)</a>
+<a href='https://zorin.com/os/' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=zorin&label=%20&message=Zorin&logoColor=0CC1F3&color=FFFFFF)</a> <a href='https://www.microsoft.com/en-us/windows/windows-11' target='_blank'>![](https://img.shields.io/static/v1?style=flat&logo=windows&label=%20&message=Windows11&logoColor=FFFFFF&color=0078D6)</a>
