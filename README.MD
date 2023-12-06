@@ -1,4 +1,6 @@
 Welcome to my github 🇧🇷 
+<img src="./imgs/haze-programmer-writing-code-on-laptop-1.png" min-width="250" min-width="250" align="right" />
+
 
 ## 🔹 Social networks
 
@@ -24,7 +26,6 @@ Welcome to my github 🇧🇷
 |**Civil Cultural**| technology |
 |------------------|------------|
 |![](https://avatars.githubusercontent.com/u/73488089?s=100&u=1bebef5d05c250c406bf9cae1bbfbbfd778bb207&v=4)| `Next.js`, `Reactjs`, `Laravel`|
-<br/>
 
 |**Invistax**| technology |
 |------------|------------|
