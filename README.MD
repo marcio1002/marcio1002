@@ -21,12 +21,12 @@ Welcome to my github 🇧🇷
 ## Projetos atuais
 
 
-|**Civil Cultural**|         |
-|------------------|---------|
-|![](https://avatars.githubusercontent.com/u/73488089?s=100&u=1bebef5d05c250c406bf9cae1bbfbbfd778bb207&v=4)| Techs: `Next.js`, `Reactjs`, `Laravel`|
+|**Civil Cultural**| technology |
+|------------------|------------|
+|![](https://avatars.githubusercontent.com/u/73488089?s=100&u=1bebef5d05c250c406bf9cae1bbfbbfd778bb207&v=4)| `Next.js`, `Reactjs`, `Laravel`|
 <br/>
 
-|**Invistax**|            |
+|**Invistax**| technology |
 |------------|------------|
-|![](https://avatars.githubusercontent.com/u/132791679?s=100&u=d8a20903b01af6a57559200f06271fe652ae5915&v=4)| Techs: `Next.js`, `Reactjs`|
+|![](https://avatars.githubusercontent.com/u/132791679?s=100&u=d8a20903b01af6a57559200f06271fe652ae5915&v=4)| `Next.js`, `Reactjs`|
 <br/>
