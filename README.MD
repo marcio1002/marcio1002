@@ -29,5 +29,5 @@ Welcome to my github 🇧🇷
 
 |**Invistax**| technology |
 |------------|------------|
-|![](https://avatars.githubusercontent.com/u/132791679?s=100&u=d8a20903b01af6a57559200f06271fe652ae5915&v=4)| `Next.js`, `Reactjs`|
+|![](https://avatars.githubusercontent.com/u/132791679?s=100&u=d8a20903b01af6a57559200f06271fe652ae5915&v=4)| `Vitejs`, `Reactjs`|
 <br/>
