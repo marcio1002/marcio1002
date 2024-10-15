@@ -25,9 +25,4 @@ Welcome to my github 🇧🇷
 
 |**Civil Cultural**| technology |
 |------------------|------------|
-|![](https://avatars.githubusercontent.com/u/73488089?s=100&u=1bebef5d05c250c406bf9cae1bbfbbfd778bb207&v=4)| `Vitejs`, `Reactjs`, `Laravel`|
-
-|**Invistax**| technology |
-|------------|------------|
-|![](https://avatars.githubusercontent.com/u/132791679?s=100&u=d8a20903b01af6a57559200f06271fe652ae5915&v=4)| `Next.js`, `Reactjs`|
-<br/>
+|![](https://avatars.githubusercontent.com/u/73488089?s=100&u=1bebef5d05c250c406bf9cae1bbfbbfd778bb207&v=4)| `Vitejs`, `Reactjs`, `Laravel`
