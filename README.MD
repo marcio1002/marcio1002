@@ -13,7 +13,7 @@ Welcome to my github 🇧🇷
 ![](https://skillicons.dev/icons?i=laravel,react,angular,vue,bootstrap,tailwind)
 
 ## 🔹 Devops
-![](https://skillicons.dev/icons?i=linux,aws,heroku)
+![](https://skillicons.dev/icons?i=linux,windows,aws)
 
 
 ##
