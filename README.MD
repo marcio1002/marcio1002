@@ -10,7 +10,7 @@ Welcome to my github 🇧🇷
 ![](https://skillicons.dev/icons?i=python,javascript,java,php,powershell,bash)
 
 ## 🔹 Frameworks and libs
-![](https://skillicons.dev/icons?i=laravel,react,angular,vue,bootstrap,tailwind)
+![](https://skillicons.dev/icons?i=laravel,react,angular,bootstrap,tailwind)
 
 ## 🔹 Devops
 ![](https://skillicons.dev/icons?i=linux,windows,aws)
