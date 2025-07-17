@@ -7,10 +7,10 @@ Welcome to my github 🇧🇷
 <a href='https://github.com/marcio1002?tab=followers' target='_blank'>![](https://img.shields.io/github/followers/marcio1002?label=Followers&style=social)</a> <a href='https://www.linkedin.com/in/marcio-a-santos' target='_blank'> ![](https://img.shields.io/static/v1?&style=social&label=LinkeDin&logo=linkedin&message=Marcio-Santos&link=https://www.linkedin.com/in/marcio-a-santos/) </a>
 
 ## 🔹 Programming languages
-![](https://skillicons.dev/icons?i=python,javascript,java,php,powershell,bash)
+![](https://skillicons.dev/icons?i=python,javascript,php,java,powershell,bash)
 
 ## 🔹 Frameworks and libs
-![](https://skillicons.dev/icons?i=laravel,react,angular,bootstrap,tailwind)
+![](https://skillicons.dev/icons?i=laravel,react,angular,tailwind,bootstrap)
 
 ## 🔹 Devops
 ![](https://skillicons.dev/icons?i=linux,windows,aws)
