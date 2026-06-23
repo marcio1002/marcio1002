@@ -10,7 +10,7 @@ Welcome to my github 🇧🇷
 ![](https://i.icoziv.workers.dev/icons?i=python,javascript,php,sql)
 
 ## 🔹 Frameworks and libs Data Science
-![](https://i.icoziv.workers.dev/icons?i=numpy,pandas,jupyter,tensorflow,scikitlearn,matplotlib,seaborn)
+![](https://i.icoziv.workers.dev/icons?i=numpy,pandas,jupyter,scikitlearn,matplotlib,seaborn)
 
 ## 🔹 Frameworks and libs Front-End
 ![](https://i.icoziv.workers.dev/icons?i=react,angular,tailwind)
