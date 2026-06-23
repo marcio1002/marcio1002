@@ -1,15 +1,13 @@
-
-
 <table>
   <tr>
     <td width="55%">
-      # Hello 👋
-
-      Welcome to my github 🇧🇷
+     <img 
+        src="./imgs/github_ai_welcome_animcation.gif" 
+        width="350px"
+      />
     </td>
-
     <td width="45%">
-      <img src="./imgs/github_ai_welcome_animcation.gif" min-width="110" min-width="100" />
+      <h3 align="center">Welcome to my github 🇧🇷</h3>
     </td>
   </tr>
 </table>
@@ -19,15 +17,15 @@
 <a href='https://github.com/marcio1002?tab=followers' target='_blank'>![](https://img.shields.io/github/followers/marcio1002?label=Followers&style=social)</a> <a href='https://www.linkedin.com/in/marcio-a-santos' target='_blank'> ![](https://img.shields.io/static/v1?&style=social&label=LinkeDin&logo=linkedin&message=Marcio-Santos&link=https://www.linkedin.com/in/marcio-a-santos/) </a>
 
 ## 🔹 Programming languages
-![](https://i.icoziv.workers.dev/icons?i=python,javascript,php,sql)
+![](https://i.icoziv.workers.dev/icons?i=python,javascript,sql)
 
-## 🔹 Frameworks and libs Data Science
+## 🔹 Data Science & IA
 ![](https://i.icoziv.workers.dev/icons?i=numpy,pandas,jupyter,scikitlearn,matplotlib,seaborn)
 
-## 🔹 Frameworks and libs Front-End
+## 🔹 Front-End
 ![](https://i.icoziv.workers.dev/icons?i=react,angular,tailwind)
 
-## 🔹 Frameworks and libs Back-End
+## 🔹 Back-End
 ![](https://i.icoziv.workers.dev/icons?i=laravel,django)
 
 ## 🔹 Devops
