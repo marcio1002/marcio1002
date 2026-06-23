@@ -1,6 +1,18 @@
-Welcome to my github 🇧🇷 
-<img src="./imgs/github_ai_welcome_animcation.gif" min-width="250" min-width="250" align="right" />
 
+
+<table>
+  <tr>
+    <td width="55%">
+      # Hello 👋
+
+      Welcome to my github 🇧🇷
+    </td>
+
+    <td width="45%">
+      <img src="./imgs/github_ai_welcome_animcation.gif" min-width="110" min-width="100" />
+    </td>
+  </tr>
+</table>
 
 ## 🔹 Social networks
 
