@@ -1,16 +1,10 @@
-<table>
-  <tr>
-    <td width="55%">
-     <img 
-        src="./imgs/github_ai_welcome_animcation.gif" 
-        width="350px"
-      />
-    </td>
-    <td width="45%">
-      <h3 align="center">Welcome to my github 🇧🇷</h3>
-    </td>
-  </tr>
-</table>
+<h3 align="center">Welcome to my github 🇧🇷</h3>
+
+<img  
+  src="./imgs/github_ai_welcome_animcation.gif"  
+  width="360px" 
+  align="right" 
+/>
 
 ## 🔹 Social networks
 
