@@ -1,14 +1,13 @@
-<h3 align="center">Welcome to my github 🇧🇷</h3>
-
-<img  
-  src="./imgs/github_ai_welcome_animcation.gif"  
-  width="360px" 
-  align="right" 
-/>
+<h3 align="center">Hello 👋 🇧🇷</h3>
 
 ## 🔹 Social networks
 
 <a href='https://github.com/marcio1002?tab=followers' target='_blank'>![](https://img.shields.io/github/followers/marcio1002?label=Followers&style=social)</a> <a href='https://www.linkedin.com/in/marcio-a-santos' target='_blank'> ![](https://img.shields.io/static/v1?&style=social&label=LinkeDin&logo=linkedin&message=Marcio-Santos&link=https://www.linkedin.com/in/marcio-a-santos/) </a>
+<img  
+  src="./imgs/github_ai_welcome_animcation.gif"  
+  width="460px" 
+  align="right"
+/>
 
 ## 🔹 Programming languages
 ![](https://i.icoziv.workers.dev/icons?i=python,javascript,sql)
