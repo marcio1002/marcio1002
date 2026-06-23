@@ -1,5 +1,5 @@
 Welcome to my github 🇧🇷 
-<img src="./imgs/haze-programmer-writing-code-on-laptop-1.png" min-width="250" min-width="250" align="right" />
+<img src="./imgs/github_ai_welcome_animcation.gif" min-width="250" min-width="250" align="right" />
 
 
 ## 🔹 Social networks
